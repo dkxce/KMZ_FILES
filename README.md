@@ -10,10 +10,10 @@ Create KMZ from OSM [KMZPOIfromOSM](https://github.com/dkxce/KMZPOIfromOSM)
 
 ### Get OSM DATA - Данные OSM
 
-[OSM Export](https://www.openstreetmap.org/export)     
-[OSM Planet in PBF](https://planet.openstreetmap.org/pbf/)     
-[OSM Planet in OSM](https://planet.openstreetmap.org/planet/)    
-[GeoFabric PBF+OSM](https://download.geofabrik.de/)    
+[OSM Export in OSM format](https://www.openstreetmap.org/export)        
+[OSM Planet in PBF format](https://planet.openstreetmap.org/pbf/)     
+[OSM Planet in OSM format](https://planet.openstreetmap.org/planet/)    
+[GeoFabric PBF+OSM format](https://download.geofabrik.de/)    
 [BBBike](https://extract.bbbike.org/), use:  Protocolbuffer (PBF) file format       
 [BBBike Extracted](https://download.bbbike.org/osm/extract/)    
 
