@@ -2,7 +2,8 @@
 
 KMZ Files Reporitory for [KMZViewer](https://github.com/dkxce/KMZViewer) &amp; [KMZRebuilder](https://github.com/dkxce/KMZRebuilder)     
 Репозиторий файлов для программ [KMZViewer](https://github.com/dkxce/KMZViewer) &amp; [KMZRebuilder](https://github.com/dkxce/KMZRebuilder)     
-Import/Export [Google My Maps](https://www.google.com/maps/d/)     
+Most Files Created with [KMZRebuilder](https://github.com/dkxce/KMZRebuilder) &amp; [KMZPOIfromOSM](https://github.com/dkxce/KMZPOIfromOSM)       
+You can use it in [Google My Maps](https://www.google.com/maps/d/)     
 
 ### OSM Converter KMZPOI from OSM
 
