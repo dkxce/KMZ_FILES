@@ -7,8 +7,8 @@ KMZ Files Reporitory for [KMZViewer](https://github.com/dkxce/KMZViewer) &amp; [
 
 Create KMZ from OSM [KMZPOIfromOSM](https://github.com/dkxce/KMZPOIfromOSM)     
 Создание KMZ из OSM [KMZPOIfromOSM](https://github.com/dkxce/KMZPOIfromOSM)    
-Get OSM Map [bbike](https://extract.bbbike.org/)    
-Получение данных OSM [bbike](https://extract.bbbike.org/)
+Get OSM Map [bbike](https://extract.bbbike.org/), use:  Protocolbuffer (PBF) or MapsForge (OSM) file formats       
+Получение данных OSM [bbike](https://extract.bbbike.org/), use:  Protocolbuffer (PBF) or MapsForge (OSM) file formats       
 
 ### FILES
 
