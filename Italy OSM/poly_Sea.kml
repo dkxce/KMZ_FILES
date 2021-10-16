@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark><name>My Polygon</name>
+<Polygon><extrude>1</extrude><outerBoundaryIs><LinearRing><coordinates>12.60681,45.5583,0 12.61505,45.47939,0 12.88422,45.55637,0 13.12866,45.60635,0 13.27148,45.65821,0 13.21106,45.74836,0 12.82928,45.77518,0 12.58484,45.6678,0 </coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+</Document>
+</kml>
