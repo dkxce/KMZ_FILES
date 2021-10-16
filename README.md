@@ -3,12 +3,19 @@
 KMZ Files Reporitory for [KMZViewer](https://github.com/dkxce/KMZViewer) &amp; [KMZRebuilder](https://github.com/dkxce/KMZRebuilder)     
 Репозиторий файлов для программ [KMZViewer](https://github.com/dkxce/KMZViewer) &amp; [KMZRebuilder](https://github.com/dkxce/KMZRebuilder)   
 
-### OSM
+### OSM Converter KMZPOI from OSM
 
 Create KMZ from OSM [KMZPOIfromOSM](https://github.com/dkxce/KMZPOIfromOSM)     
 Создание KMZ из OSM [KMZPOIfromOSM](https://github.com/dkxce/KMZPOIfromOSM)    
-Get OSM Map [bbike](https://extract.bbbike.org/), use:  Protocolbuffer (PBF) file format       
-Получение данных OSM [bbike](https://extract.bbbike.org/), use:  Protocolbuffer (PBF) file format       
+
+### Get OSM DATA - Данные OSM
+
+[OSM Export](https://www.openstreetmap.org/export)     
+[OSM Planet in PBF](https://planet.openstreetmap.org/pbf/)     
+[OSM Planet in OSM](https://planet.openstreetmap.org/planet/)    
+[GeoFabric PBF+OSM](https://download.geofabrik.de/)    
+[BBBike](https://extract.bbbike.org/), use:  Protocolbuffer (PBF) file format       
+[BBBike Extracted](https://download.bbbike.org/osm/extract/)    
 
 ### FILES
 
