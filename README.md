@@ -5,12 +5,20 @@ KMZ Files Reporitory for [KMZViewer](https://github.com/dkxce/KMZViewer) &amp; [
 Most Files Created with [KMZRebuilder](https://github.com/dkxce/KMZRebuilder) &amp; [KMZPOIfromOSM](https://github.com/dkxce/KMZPOIfromOSM)       
 You can use it in [Google My Maps](https://www.google.com/maps/d/) and [OruxMaps](http://oruxmaps.com)
 
-### OSM Converter KMZPOI from OSM
+### Convert POI from OSM to KMZ
 
 Create KMZ from OpenStreetMap [KMZPOIfromOSM](https://github.com/dkxce/KMZPOIfromOSM) - OSM and PBF     
 Создание KMZ из OpenStreetMap [KMZPOIfromOSM](https://github.com/dkxce/KMZPOIfromOSM) - OSM and PBF   
+
+### Manage and Convert POI and KMZ
+
 Create KMZ from OpenStreetMap [KMZRebuilder](https://github.com/dkxce/KMZRebuilder) - OSM   
 Создание KMZ из OpenStreetMap OSM [KMZRebuilder](https://github.com/dkxce/KMZRebuilder) - OSM   
+
+### View POI and KMZ
+
+View in [KMZViewer](https://github.com/dkxce/KMZViewer)    
+Просмотр в [KMZViewer](https://github.com/dkxce/KMZViewer)    
 
 ### Get OpenStreetMap DATA - Данные OpenStreetMap
 
