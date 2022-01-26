@@ -70,3 +70,5 @@ View in [KMZViewer](https://github.com/dkxce/KMZViewer)
 5. Open result file with
 - [KMZRebuilder](https://github.com/dkxce/KMZRebuilder)
 6. Save if need to another format (ex: GPI)
+7. Explore with
+- [KMZViewer](https://github.com/dkxce/KMZViewer) 
