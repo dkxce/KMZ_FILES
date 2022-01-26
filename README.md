@@ -18,7 +18,11 @@ Create KMZ from OpenStreetMap [KMZRebuilder](https://github.com/dkxce/KMZRebuild
 ### View POI and KMZ
 
 View in [KMZViewer](https://github.com/dkxce/KMZViewer)    
-Просмотр в [KMZViewer](https://github.com/dkxce/KMZViewer)    
+Просмотр в [KMZViewer](https://github.com/dkxce/KMZViewer)  
+
+### Export POI and KMZ to GPI
+
+[KMZRebuilder](https://github.com/dkxce/KMZRebuilder)
 
 ### Get OpenStreetMap DATA - Данные OpenStreetMap
 
