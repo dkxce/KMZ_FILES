@@ -43,3 +43,30 @@ View in [KMZViewer](https://github.com/dkxce/KMZViewer)
 [Километраж Оки, KMZ](https://github.com/dkxce/KMZ_FILES/blob/main/%D0%9E%D0%BA%D0%B0%20(%D0%9A%D0%B8%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%B6).kmz)   
 [АЗС](https://github.com/dkxce/KMZ_FILES/tree/main/%D0%90%D0%97%D0%A1)   
 [M4](https://github.com/dkxce/KMZ_FILES/tree/main/M4)   
+
+
+### STEP-BT-STEP for self-created KMZ files
+
+1. Get PBF (or OSM) file of your region:
+- https://www.openstreetmap.org/export
+- https://download.geofabrik.de/
+- https://download.openstreetmap.fr/extracts/
+- https://download.bbbike.org/osm/bbbike/
+- https://download.bbbike.org/osm/
+- https://protomaps.com/downloads/osm
+- https://wiki.openstreetmap.org/wiki/Planet.osm#Country_and_area_extracts
+- https://wiki.openstreetmap.org/wiki/Planet.osm#Regional_extract_sources
+2. Or get POI file of your region:
+- https://www.openandromaps.org/en/downloads
+- https://download.mapsforge.org/pois/
+3. Or get MAP (MapsForge) file of your region:
+- https://www.openandromaps.org/en/downloads
+- https://www.androidmaps.co.uk/
+- https://download.mapsforge.org/maps/
+- https://ftp-stud.hs-esslingen.de/pub/Mirrors/download.mapsforge.org/maps/
+- https://www.freizeitkarte-osm.de/android/en/index.html
+4. If you get PBF or OSM file convert it to KMZ with
+- [KMZPOIfromOSM](https://github.com/dkxce/KMZPOIfromOSM)
+5. Open result file with
+- [KMZRebuilder](https://github.com/dkxce/KMZRebuilder)
+6. Save if need to another format (ex: GPI)
